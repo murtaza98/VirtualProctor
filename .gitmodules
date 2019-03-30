@@ -1,3 +1,6 @@
 [submodule "VirtualProctor_server"]
 	path = VirtualProctor_server
 	url = https://github.com/padfoot18/VirtualProctor_server.git
+[submodule "VirtualProctor_Android"]
+	path = VirtualProctor_Android
+	url = https://github.com/ojasskapre/VirtualProctor_Android.git
