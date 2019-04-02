@@ -18,6 +18,16 @@ Our solution tries to solve this 2 problems.
 4. If a parent is not satisfied with the chatbots answers and wishes to talk to teacher directly, then all the parent has to do is just ask the chatbot to contact the teacher. The chabot will seamlessly redirect you to a personal chat window, where parents can have personal converstion with the respective teacher.
 5. This app also has an amazing notifcation module where the admin/principal can broadcast a message to each and every parent. Not just that, a teacher can also send a notification to all parents whose children study in a particular class.
 
+### Android App Demo
+
+<div align="center">
+
+
+<img src="./assets/attendance_demo.gif" width=245px>
+<img src="./assets/result_demo.gif" width=245px>
+<img src="./assets/attendance_demo.gif" width=245px>
+
+</div>
 
 ### Tech
 
