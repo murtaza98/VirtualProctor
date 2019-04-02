@@ -62,7 +62,7 @@ Please read [CONTRIBUTING.md](https://github.com/murtaza98/VirtualProctor/CONTRI
  - 
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/murtaza98/VirtualProctor/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/murtaza98/VirtualProctor/blob/master/LICENSE) file for details
 
 ### Note 
 This project was done under 24 hours with minimal pre-preparation.
