@@ -55,7 +55,7 @@ For VirtualProctor Client-side(Android app) install go [here](https://github.com
 ### Development
 
 Want to contribute? Great!
-Please read [CONTRIBUTING.md](https://github.com/murtaza98/VirtualProctor/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/murtaza98/VirtualProctor/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ### Todos
 
