@@ -23,9 +23,8 @@ Our solution tries to solve this 2 problems.
 <div align="center">
 
 
-<img src="./assets/attendance_demo.gif" width=245px>
+<img src="./assets/attendance_demo.gif" width=245px>&emsp;&emsp;&emsp;
 <img src="./assets/result_demo.gif" width=245px>
-<img src="./assets/attendance_demo.gif" width=245px>
 
 </div>
 
