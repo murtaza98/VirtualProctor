@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-VirtualProctor is a futuristic way for communication between parents and teachers.
+VirtualProctor is a futuristic way of communication between parents and teachers.
 
 ### Problem with the existing system
   1. A teacher has to answer to all the parent's queries. Eg. if there is an event in college and parents wants to know about the security details of the same, then most of the parents will ask the class teacher this question via email or personal message. In such scenerio the class teacher has to manually answer the same question to all parents.  
