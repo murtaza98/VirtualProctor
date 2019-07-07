@@ -9,7 +9,7 @@ VirtualProctor is a futuristic way of communication between parents and teachers
   2. Also the parent has to wait for the teacher to answer. Like if the teacher is busy, then the parent has to wait until the teacher checks his message and replies.
 
 
-Our solution tries to solve this 2 problems.
+Our solution tries to solve these 2 problems.
 
 ### Our Solution
 1. Instead of directly interacting with the teacher, a parent can ask their queries to a Chatbot. This chatbot will be trained in such a way that it could answer most frequently asked question.
